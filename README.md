@@ -8,7 +8,13 @@ https://dr-maya-reynolds-website-three.vercel.app/
 
 ## Screenshots
 
+## 1
+
 ![Desktop Preview](./screenshots/desktop.png)
+
+## 2
+
+![](./screenshots/image.png).
 
 
 ## Overview
