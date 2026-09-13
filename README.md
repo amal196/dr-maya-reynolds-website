@@ -46,7 +46,7 @@ The website was designed to provide a consistent experience across desktop and m
 * Next.js
 * React
 * TypeScript
-* CSS
+* Tailwind CSS
 * Vercel
 
 ## Getting Started
