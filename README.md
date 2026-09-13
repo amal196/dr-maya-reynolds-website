@@ -6,15 +6,10 @@ A modern, responsive healthcare website designed for Dr. Maya Reynolds, focused 
 
 https://dr-maya-reynolds-website-three.vercel.app/
 
-## Project Preview
-
-### Desktop
+## Screenshots
 
 ![Desktop Preview](./screenshots/desktop.png)
 
-### Mobile
-
-![Mobile Preview](./screenshots/mobile.jpg)
 
 ## Overview
 
