@@ -14,7 +14,7 @@ https://dr-maya-reynolds-website-three.vercel.app/
 
 ### Mobile
 
-![Mobile Preview](./screenshots/mobile.png)
+![Mobile Preview](./screenshots/mobile.jpg)
 
 ## Overview
 
